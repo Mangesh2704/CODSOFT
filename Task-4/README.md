@@ -58,3 +58,6 @@ This project relies on the following libraries:
 - This project uses data from the [OpenWeatherMap API](https://openweathermap.org/).
 
 ##
+**Author:** Mangesh Pangam  
+**GitHub:** [Mangesh2704](https://github.com/Mangesh2704)  
+**Email:** 202103036.mangeshpkr@student.xavier.ac.in
